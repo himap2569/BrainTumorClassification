@@ -6,7 +6,7 @@ st.title('CS7641: Project Midterm Report')
 st.subheader('(Group 42)')
 
 st.header('Tumor Detection and Classification')
-st.markdown('**Team Members:** Shital Salke, Jenny Lin, Koushika Kesavan, Hima Varshini Parasa')
+st.markdown('**Team Members:** Hima Varshini Parasa, Shital Salke, Jenny Lin, Koushika Kesavan')
 st.markdown('**Institution:** Georgia Institute of Technology')
 
 # Introduction and Background Section
